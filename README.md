@@ -13,7 +13,7 @@
 
 ## Demo
 
-**Live demo link (if available)**
+**[Live demo link (if available)](https://movie-streaming-website-brown.vercel.app/)**
 
 ## Technologies Used
 
